@@ -12,3 +12,5 @@ file_picker
 - [ModalProgressHUD](https://pub.dev/packages/modal_progress_hud)
 ## PDF Reader
 - [flutterpdfview](https://pub.dev/packages/flutter_pdfview)
+## Fancy Bottom Navigation Bar
+- [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar)
