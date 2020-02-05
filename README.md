@@ -14,3 +14,6 @@ file_picker
 - [flutterpdfview](https://pub.dev/packages/flutter_pdfview)
 ## Fancy Bottom Navigation Bar
 - [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar)
+## Fancy Scrolling effects
+- [Flutter Slivers Overview: SliverList, SliverGrid, SliverToBoxAdapter, SliverFillRemaining [Video]](https://www.youtube.com/watch?v=k2v3gxtMlDE)
+- [Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader [Video]](https://www.youtube.com/watch?v=E3-WdYBrEDc)
