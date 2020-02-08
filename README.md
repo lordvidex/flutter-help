@@ -17,3 +17,5 @@ file_picker
 ## Fancy Scrolling effects
 - [Flutter Slivers Overview: SliverList, SliverGrid, SliverToBoxAdapter, SliverFillRemaining [Video]](https://www.youtube.com/watch?v=k2v3gxtMlDE)
 - [Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader [Video]](https://www.youtube.com/watch?v=E3-WdYBrEDc)
+## Advanced
+- [FLutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
