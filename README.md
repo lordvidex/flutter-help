@@ -19,3 +19,5 @@ file_picker
 - [Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader [Video]](https://www.youtube.com/watch?v=E3-WdYBrEDc)
 ## Advanced
 - [FLutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
+## APIs and assets catalogues
+- [Free sounds](https://freesound.org/)
