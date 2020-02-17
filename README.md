@@ -21,3 +21,5 @@ file_picker
 - [FLutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
 ## APIs and assets catalogues
 - [Free sounds](https://freesound.org/)
+## Dart Algorithm Practices
+- [Exercism](https://exercism.io/tracks/dart)
