@@ -21,5 +21,6 @@ file_picker
 - [FLutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
 ## APIs and assets catalogues
 - [Free sounds](https://freesound.org/)
+- [Font Awesome Flutter Icon Pack](https://pub.dev/packages/font_awesome_flutter)
 ## Dart Algorithm Practices
 - [Exercism](https://exercism.io/tracks/dart)
