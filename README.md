@@ -22,5 +22,7 @@ file_picker
 ## APIs and assets catalogues
 - [Free sounds](https://freesound.org/)
 - [Font Awesome Flutter Icon Pack](https://pub.dev/packages/font_awesome_flutter)
-## Dart Algorithm Practices
+## Dart Algorithm Practices 
 - [Exercism](https://exercism.io/tracks/dart)
+-[C++ codeforces](codeforces.com)
+-[c++ and Dart - SPOJ](https://www.spoj.com/problems/classical/)
