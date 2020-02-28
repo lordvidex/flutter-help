@@ -26,3 +26,5 @@ file_picker
 - [Exercism](https://exercism.io/tracks/dart)
 - [C++ codeforces](codeforces.com)
 - [c++ and Dart - SPOJ](https://www.spoj.com/problems/classical/)
+## Notifications
+- [Local Notifications](https://pub.dev/packages/flutter_local_notifications)
