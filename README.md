@@ -20,7 +20,8 @@ file_picker
 ## Fancy Text typer and text animations
 - [Flutter animated-text-kit](https://pub.dev/packages/animated_text_kit)
 ## Notifications
-- [FLutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
+- [Flutter Local Notifications [Video]](https://www.youtube.com/watch?v=950jZeaqbdU)
+- [Watch out for awesome_notifications](https://pub.dev/packages/awesome_notifications)
 ## APIs and assets catalogues
 - [Free sounds](https://freesound.org/)
 - [Font Awesome Flutter Icon Pack](https://pub.dev/packages/font_awesome_flutter)
