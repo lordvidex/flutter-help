@@ -32,5 +32,7 @@ file_picker
 - [c++ and Dart - SPOJ](https://www.spoj.com/problems/classical/)
 ## Notifications
 - [Local Notifications](https://pub.dev/packages/flutter_local_notifications)
+## Time line widget
+- [https://pub.dev/packages/timeline_tile](https://pub.dev/packages/timeline_tile)  
 
 *Feel free to **star** this page if you found this useful and make a **pull request** if you want to make an addition to the list to help others*
