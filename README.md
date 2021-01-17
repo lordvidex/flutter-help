@@ -16,7 +16,9 @@ file_picker
 - [bottom_navy_bar](https://pub.dev/packages/bottom_navy_bar)
 ## Fancy Scrolling effects
 - [Flutter Slivers Overview: SliverList, SliverGrid, SliverToBoxAdapter, SliverFillRemaining [Video]](https://www.youtube.com/watch?v=k2v3gxtMlDE)
-- [Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader [Video]](https://www.youtube.com/watch?v=E3-WdYBrEDc)
+- [Flutter Slivers Overview: SliverAppBar, SliverPersistentHeader [Video]](https://www.youtube.com/watch?v=E3-WdYBrEDc)  
+## Shimmer Effects for ListLoaders
+- [shimmer](https://pub.dev/packages/shimmer)
 ## Fancy Text typer and text animations
 - [Flutter animated-text-kit](https://pub.dev/packages/animated_text_kit)
 ## Notifications
