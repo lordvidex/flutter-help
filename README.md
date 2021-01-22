@@ -3,7 +3,7 @@ I compiled this to help flutter programmers with one or two packages to import i
 starting flutter
 ## Displaying SplashScreen while initializing app
 This comes in handy when you have to initialize plugins like `notifications`, `shared_preferences` and so many
-other packages while displaying splash screen to keep the user entertained D:).
+other packages while displaying splash screen to keep the user entertained 🙃.
 ```dart
 main() async {
   //`runApp()` can be called more than once in the app
