@@ -1,6 +1,15 @@
 # Flutter Help
 I compiled this to help flutter programmers with one or two packages to import in case of confusion that i came across while 
 starting flutter
+## Displaying SplashScreen while initializing app
+```dart
+main() async {
+  //`runApp()` can be called more than once in the app
+  runApp(new SplashScreen());
+  var foo = await init();
+  runApp(new FullApp(foo: foo));
+}
+```
 ## Media Players
 - [Audio Player and Video Player](https://www.codementor.io/@ponnamkarthik3/flutter-media-playback-audio-video-yvgzj7516) :
 ```
